@@ -1,5 +1,5 @@
 {
-  "name": "get-your-ip",
+  "name": "Apni-ip",
   "version": "1.0.0",
   "description": "An NPM Package to get your own IP Address",
   "main": "index.js",
