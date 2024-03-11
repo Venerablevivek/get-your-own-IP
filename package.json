@@ -1,0 +1,32 @@
+{
+  "name": "get-your-ip",
+  "version": "1.0.0",
+  "description": "An NPM Package to get your own IP Address",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Venerablevivek/get-your-own-IP.git"
+  },
+  "keywords": [
+    "npm",
+    "ip",
+    "get-ip",
+    "get-your-ip",
+    "get-owm-ip",
+    "own-ip"
+  ],
+  "author": "Vivek Chaudhary",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Venerablevivek/get-your-own-IP/issues"
+  },
+  "homepage": "https://github.com/Venerablevivek/get-your-own-IP#readme",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.5"
+  }
+}
