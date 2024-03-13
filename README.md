@@ -1,4 +1,4 @@
-# sysytem-ip [![Build Status]]
+# sytem-ip 
 
 > An NPM Package to get your own IP Address
 
