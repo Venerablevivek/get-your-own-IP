@@ -1,6 +1,6 @@
 {
   "name": "system-ip",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An NPM Package to get your own IP Address",
   "main": "index.js",
   "type": "module",
